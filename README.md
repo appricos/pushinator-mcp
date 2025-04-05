@@ -1,5 +1,16 @@
 # Pushinator MCP
 
+[![smithery badge](https://smithery.ai/badge/@appricos/pushinator-mcp)](https://smithery.ai/server/@appricos/pushinator-mcp)
+
+### Installing via Smithery
+
+To install Pushinator for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@appricos/pushinator-mcp):
+
+```bash
+npx -y @smithery/cli install @appricos/pushinator-mcp --client claude
+```
+
+### Manual Installation
 To install dependencies:
 
 ```bash

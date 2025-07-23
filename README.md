@@ -27,3 +27,7 @@ After that, add the Pushinator MCP to your MCP client (the API token can be retr
     }
 }
 ```
+
+<a href="https://glama.ai/mcp/servers/@appricos/pushinator-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@appricos/pushinator-mcp/badge" alt="mcp-pushinator MCP server" />
+</a>
